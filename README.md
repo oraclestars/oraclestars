@@ -35,7 +35,7 @@
 
 ## 🟡 Pac-Man Contribution Graph
 ![Animasi Pac-Man kontribusi GitHub](https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph-dark.svg)
-
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph.svg">
 ## 🎮 Play Pac-Man (Interactive)
 > Play online: [Pac-Man HTML5](https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/ )
 
