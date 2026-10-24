@@ -34,7 +34,7 @@
 ![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ## 🟡 Pac-Man Contribution Graph
-![Animasi Pac-Man kontribusi GitHub](https://github.com/abozanona/pacman-contribution-graph/stargazers)
+![Animasi Pac-Man kontribusi GitHub](https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg)
 
 ## 🎮 Play Pac-Man (Interactive)
 > Play online: [Pac-Man HTML5](https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/ )
