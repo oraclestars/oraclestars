@@ -1,6 +1,6 @@
-# 👋 Hi, I'm <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00F0FF&width=280&lines=sy1ahdev;oraclestars;sy1ah.git" alt="Animated name: sy1ahdev, oraclestars, sy1ah.git" /></span>
+# 👋 Hi, I'm <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00F0FF&width=280&lines=BAGASY1AH.dev;oraclestars;sy1ah.git" alt="Animated name: BAGASY1AH.dev, oraclestars, sy1ah.git" /></span>
 
-<p align="right"><img width="56" alt="Animasi mata kucing" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/cat-eyes.gif"> <img width="104" alt="Animasi Garuda oranye" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/garuda-orange.gif"></p>
+<p align="right"><img width="56" alt="Animasi mata kucing" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/cat-eyes.gif"> <img width="104" alt="Animasi Garuda oranye" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/garuda-orange.gif"> <img width="104" alt="Animasi Pac-Man" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/pacman.gif"></p>
 
 > *Engineer · Development · Reverse Sec · Design*
 
@@ -27,15 +27,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 ![Excel Data & Statistics](https://img.shields.io/badge/Excel_Data_%26_Statistics-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
+<img src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/football-cyan-orange.svg" width="20" alt="Logo bola cyan dan oranye"> FOOTBALL
 
 ## 🐍 Contribution Snake
-![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/oraclestars/oraclestars/output/github-contribution-grid-snake.gif)
+![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ## 🟡 Pac-Man Contribution Graph
-![Animasi Pac-Man kontribusi GitHub](https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph.gif)
+![Animasi Pac-Man kontribusi GitHub](https://github.com/abozanona/pacman-contribution-graph/stargazers)
 
 ## 🎮 Play Pac-Man (Interactive)
-> Play online: [Pac-Man HTML5](https://pacman.platzh1rsch.ch/)
+> Play online: [Pac-Man HTML5](https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/ )
 
 ---
 *© BAGASY1AH.dev — Protected by Copyright*
