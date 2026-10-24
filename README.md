@@ -31,13 +31,17 @@
 <img src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/football-cyan-orange.svg" width="20" alt="Logo bola cyan dan oranye"> 
 
 ## 🐍 Contribution Snake
-![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![Animasi Snake kontribusi GitHub]
+(https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ## 🟡 Pac-Man Contribution Graph
-![Animasi Pac-Man kontribusi GitHub](https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph-dark.svg)
+![Animasi Pac-Man kontribusi GitHub]
+</picture>
+  <source media="(prefers-color-scheme: dark)" srcset=(https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph-dark.svg)
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph.svg">
+</picture>
 ## 🎮 Play Pac-Man (Interactive)
-> Play online: [Pac-Man HTML5](https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/ )
+> Play online: [Pac-Man HTML5] > (https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/ )
 
 ---
 *© BAGASY1AH.dev — Protected by Copyright*
