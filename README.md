@@ -1,6 +1,6 @@
-# 👋 Hi, I'm **sy1ahdev** 
+# 👋 Hi, I'm <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00F0FF&width=280&lines=sy1ahdev;oraclestars;sy1ah.git" alt="Animated name: sy1ahdev, oraclestars, sy1ah.git" /></span>
 
-<img align="right" width="90" alt="Mata kucing animasi" src="./assets/cat-eyes.gif">
+<p align="right"><img width="56" alt="Animasi mata kucing" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/cat-eyes.gif"> <img width="104" alt="Animasi Garuda oranye" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/garuda-orange.gif"></p>
 
 > *Engineer · Development · Reverse Sec · Design*
 
@@ -21,6 +21,12 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
+![Excel Data & Statistics](https://img.shields.io/badge/Excel_Data_%26_Statistics-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ## 🐍 Contribution Snake
 ![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/oraclestars/oraclestars/output/github-contribution-grid-snake.gif)
