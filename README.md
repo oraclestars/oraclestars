@@ -35,12 +35,15 @@
 
  🟡 Pac-Man Contribution Graph
 ![Animasi Pac-Man kontribusi GitHub]
-#</picture>
-  <source media="(prefers-color-scheme: dark)" srcset=(https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph-dark.svg)
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph.svg">
+<!-- abozanona -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
  🎮 Play Pac-Man (Interactive)
-> Play online: [Pac-Man HTML5] > (https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/ )
+> Play online: [Pac-Man HTML5] > [https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/]
 
 ---
 *© BAGASY1AH.dev — Protected by Copyright*
