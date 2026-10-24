@@ -28,20 +28,13 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 ![Excel Data & Statistics](https://img.shields.io/badge/Excel_Data_%26_Statistics-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
-<img src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/football-cyan-orange.svg" width="20" alt="Logo bola cyan dan oranye"> FOOTBALL
+<img src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/football-cyan-orange.svg" width="20" alt="Logo bola cyan dan oranye"> 
 
 ## 🐍 Contribution Snake
 ![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ## 🟡 Pac-Man Contribution Graph
-![Animasi Pac-Man kontribusi GitHub](https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+![Animasi Pac-Man kontribusi GitHub](https://raw.githubusercontent.com/oraclestars/oraclestars/output/pacman-contribution-graph-dark.svg)
 
 ## 🎮 Play Pac-Man (Interactive)
 > Play online: [Pac-Man HTML5](https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/ )
