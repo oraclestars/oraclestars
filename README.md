@@ -1,7 +1,7 @@
 # 👋 Hi, I'm <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00F0FF&width=280&lines=BAGASY1AH.dev;oraclestars;sy1ah.git" alt="Animated name: BAGASY1AH.dev, oraclestars, sy1ah.git" /></span>
 
-<p align="right"><img width="56" alt="Animasi mata kucing" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/cat-eyes.gif"> <img width="104" alt="Animasi Garuda oranye" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/garuda-orange.gif"> <img width="104" alt="Animasi Pac-Man" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/pacman.gif"></p>
-
+<p align="right"><img width="56" alt="Animasi mata kucing" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/cat-eyes.gif"> <img width="104" alt="Animasi Garuda oranye" src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/garuda-orange.gif"> 
+ 
 > *Engineer · Development · Reverse Sec · Design*
 
 [![GitHub](https://img.shields.io/badge/GitHub-oraclestars-00f0ff?style=for-the-badge&logo=github)](https://github.com/oraclestars)
