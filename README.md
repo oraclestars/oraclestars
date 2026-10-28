@@ -46,3 +46,5 @@
 ---
 > *© BAGASY1AH.dev — Protected by Copyright* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yingcrackerhades.yingcrackerhades)
 </div>
+
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
