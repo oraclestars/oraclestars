@@ -33,8 +33,7 @@
  🐍 Snake Contribution
 ![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
- 🟡 Pac-Man Contribution 
-<picture>
+ 🟡 Pac-Man Contribution  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -44,7 +43,4 @@
 > Play online: [Pac-Man HTML5] > [https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/]
 
 ---
-> *© BAGASY1AH.dev — Protected by Copyright* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yingcrackerhades.yingcrackerhades)
-</div>
-
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
+> *© BAGASY1AH.dev — Protected by Copyright* ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
