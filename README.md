@@ -30,11 +30,10 @@
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
 <img src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/football-cyan-orange.svg" width="20" alt="Logo bola cyan dan oranye"> 
 
- 🐍 Contribution Snake
+ 🐍 Snake Contribution
 ![Animasi Snake kontribusi GitHub](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
- 🟡 Pac-Man Contribution Graph
-<!-- abozanona -->
+ 🟡 Pac-Man Contribution 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -45,5 +44,5 @@
 > Play online: [Pac-Man HTML5] > [https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/]
 
 ---
-*© BAGASY1AH.dev — Protected by Copyright* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yingcrackerhades.yingcrackerhades)
+> *© BAGASY1AH.dev — Protected by Copyright* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yingcrackerhades.yingcrackerhades)
 </div>
