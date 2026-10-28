@@ -10,7 +10,7 @@
 [![Star](https://img.shields.io/github/stars/oraclestars/sy1ah.git?label=Star&style=for-the-badge&logo=github&color=yellow)](https://github.com/oraclestars/sy1ah.git)
 [![Telegram](https://img.shields.io/badge/Telegram-@sy1ahstore-9d00ff?style=for-the-badge&logo=telegram)](https://t.me/sy1ahstore)
 [![Sy1ahTools](https://img.shields.io/badge/Sy1ahTools-00D9FF?style=for-the-badge)](https://sy1ahtools.sy1ahstore.workers.dev/)
-[![Agentic-AI](https://img.shields.io/badge/Agentic--AI-00D9FF?style=for-the-badge)](https://asy41.workers.dev)
+[![Agentic-AI](https://img.shields.io/badge/Agentic--AI-00C853?style=for-the-badge)](https://asy41.workers.dev)
 
 ## 🧠 About Me
 - 🔐 Reverse Engineering & Security Research
