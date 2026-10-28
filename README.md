@@ -23,10 +23,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
-![Excel Data & Statistics](https://img.shields.io/badge/Excel_Data_%26_Statistics-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![ExcelData](https://img.shields.io/badge/Excel_Data_%26_217346?style=flat&logo=microsoftexcel&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
 <img src="https://raw.githubusercontent.com/oraclestars/oraclestars/main/assets/football-cyan-orange.svg" width="20" alt="Logo bola cyan dan oranye"> 
 
@@ -43,4 +44,6 @@
 > Play online: [Pac-Man HTML5] > [https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/]
 
 ---
-> *© BAGASY1AH.dev — Protected by Copyright*                                                 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+> *© BAGASY1AH.dev — Protected by Copyright*                                                 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi) https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white
+https://img.shields.io/badge/BSD--4--Clause-green?style=for-the-badge
