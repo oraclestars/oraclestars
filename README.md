@@ -45,4 +45,5 @@
 > Play online: [Pac-Man HTML5] > [https://pacman.platzh1rsch.ch/ or https://masonicgit.github.io/pacman/]
 
 ---
-*© BAGASY1AH.dev — Protected by Copyright*
+*© BAGASY1AH.dev — Protected by Copyright* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yingcrackerhades.yingcrackerhades)
+</div>
