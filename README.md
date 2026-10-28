@@ -5,9 +5,7 @@
 > *Engineer · Development · Reverse Sec · Design*
 
 [![GitHub](https://img.shields.io/badge/GitHub-oraclestars-00f0ff?style=for-the-badge&logo=github)](https://github.com/oraclestars)
-[![Follow Me](https://img.shields.io/github/followers/oraclestars?label=Follow%20Me&style=for-the-badge&logo=github&color=181717)](https://github.com/oraclestars)
-[![Repo](https://img.shields.io/badge/Repo-sy1ah.git-ff0055?style=for-the-badge&logo=git)](https://github.com/oraclestars/sy1ah.git)
-[![Star](https://img.shields.io/github/stars/oraclestars/sy1ah.git?label=Star&style=for-the-badge&logo=github&color=yellow)](https://github.com/oraclestars/sy1ah.git)
+[![Follow Me](https://img.shields.io/github/followers/oraclestars?label=Follow%20Me&style=for-the-badge&logo=github&color=181717)](https://github.com/oraclestars) [![Repo](https://img.shields.io/badge/Repo-sy1ah.git-ff0055?style=for-the-badge&logo=git)(https://github.com/oraclestars/sy1ah.git) [![Star](https://img.shields.io/github/stars/oraclestars/sy1ah.git?label=Star&style=for-the-badge&logo=github&color=yellow)](https://github.com/oraclestars/sy1ah.git)
 [![Telegram](https://img.shields.io/badge/Telegram-@sy1ahstore-9d00ff?style=for-the-badge&logo=telegram)](https://t.me/sy1ahstore)
 [![Sy1ahTools](https://img.shields.io/badge/Sy1ahTools-00D9FF?style=for-the-badge)](https://sy1ahtools.sy1ahstore.workers.dev/)
 [![Agentic-AI](https://img.shields.io/badge/Agentic--AI-00C853?style=for-the-badge)](https://asy41.workers.dev)
